@@ -17,8 +17,8 @@ Welcome to our .NET projects organization! This document outlines the guidelines
 3. Add upstream remote
    
 ### 2. Branch Management
-Upstream repository has only one branch: main
-Each developer should create their own branch in their fork:
+1. Upstream repository has only one branch: main
+2. Each developer should create their own branch in their fork:
 
 ### 3. Development Process
 1. Always pull latest changes from upstream before starting work
