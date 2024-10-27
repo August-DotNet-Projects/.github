@@ -3,7 +3,8 @@
 Welcome to our .NET projects organization! This document outlines the guidelines and workflow for contributing to our repositories.
 
 ## Project Team Details
-https://ytpl-my.sharepoint.com/:x:/g/personal/patil_nishant_yash_com/EVJR32OaeexDr2RWSmYzsX8B9bPtoL6GHlWS8Xt8UuHBoA?e=e7T7SA
+- [Project Team Details](https://ytpl-my.sharepoint.com/:x:/g/personal/patil_nishant_yash_com/EVJR32OaeexDr2RWSmYzsX8B9bPtoL6GHlWS8Xt8UuHBoA?e=e7T7SA)
+
 
 
 ## Team Access and Permissions
